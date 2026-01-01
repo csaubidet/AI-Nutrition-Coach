@@ -1,3 +1,4 @@
 flask
 gunicorn
 requests
+ibm-watsonx-ai
